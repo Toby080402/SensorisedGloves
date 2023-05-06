@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a7eb0a4-1b9f-4fbf-a453-455ebb74c242" name="Changes" comment="Added all files to repository">
+      <change afterPath="$PROJECT_DIR$/Files related to Python/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/2trainModelsFlexiAm.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/2trainModelsFlexiAr.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/2trainModelsFlexiCombo.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/2trainModelsFoamAmV2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/2trainModelsFoamAr.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/2trainModelsFoamCombo.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/3trainModelsFlexiAm.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/3trainModelsFlexiAr.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/3trainModelsFlexiCombo.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/3trainModelsFoamAmV2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/3trainModelsFoamAr.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/3trainModelsFoamCombo.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/archive/FlexiSNR.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/archive/FoamFrontTest.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/archive/FoamTest.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/archive/PinkyTest.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/archive/ReproData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/archive/data-closed_fist.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/archive/data-example.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/archive/data-letter_y.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/archive/data-letter_y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/archive/data-number_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/archive/data-number_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/archive/data-open_palm.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/archive/data-spider_man.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/archive/data-spider_man.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/archive/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/archive/data_backup.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/archive/data_no_live.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/data/FlexiAmSL.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/data/FlexiArSL.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/data/FlexiCombo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/data/FoamAmSL.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/data/FoamArSL.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/data/FoamCombo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/data/Normalised/flexiAm.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/data/Normalised/flexiAr.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/data/Normalised/flexiCombo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/data/Normalised/foamAm.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/data/Normalised/foamAr.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/data/Normalised/foamCombo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/dataCollection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/epochandLcGraphs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/1f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/1s.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/2f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/2s.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/3f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/3s.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/4f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/4s.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/7f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/7s.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/8f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/8s.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/Af.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/As.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/Baseline.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/Baselinef.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/Baselines.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/Ff.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/FoamTest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/Fs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/ILYf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/ILYs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/If.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/Is.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/Lf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/Ls.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/Rockf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/Rocks.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/Sf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/Ss.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/Wf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/Ws.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/Yf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/Ys.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/learncurves/RF.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/learncurves/flexiAm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/learncurves/flexiAr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/learncurves/flexiCombo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/learncurves/foamAm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/learncurves/foamAr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/learncurves/foamCombo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/images/pinkyrepro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/liveRecognition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAm/ann_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAm/images/ann_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAm/images/knn_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAm/images/rf_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAm/images/svm_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAm/images/xgb_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAm/knn_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAm/label_encoder.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAm/rf_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAm/svm_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAm/xgb_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAr/Images/ann_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAr/Images/knn_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAr/Images/rf_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAr/Images/svm_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAr/Images/xgb_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAr/ann_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAr/ann_model_history.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAr/knn_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAr/label_encoder.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAr/rf_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAr/svm_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiAr/xgb_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiCombo/Images/ann_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiCombo/Images/knn_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiCombo/Images/rf_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiCombo/Images/svm_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiCombo/Images/xgb_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiCombo/ann_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiCombo/knn_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiCombo/label_encoder.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiCombo/rf_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiCombo/svm_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FlexiCombo/xgb_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAmV2/ann_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAmV2/images/ann_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAmV2/images/knn_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAmV2/images/rf_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAmV2/images/svm_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAmV2/images/xgb_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAmV2/knn_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAmV2/label_encoder.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAmV2/rf_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAmV2/svm_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAmV2/xgb_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAr/Images/ann_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAr/Images/knn_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAr/Images/rf_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAr/Images/svm_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAr/Images/xgb_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAr/XGBoost_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAr/ann_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAr/ann_model_history.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAr/knn_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAr/label_encoder.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAr/rf_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamAr/svm_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamCombo/Images/ann_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamCombo/Images/knn_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamCombo/Images/rf_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamCombo/Images/svm_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamCombo/Images/xgb_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamCombo/ann_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamCombo/knn_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamCombo/label_encoder.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamCombo/rf_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamCombo/svm_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model2/FoamCombo/xgb_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAm/ann_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAm/images/ann_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAm/images/knn_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAm/images/rf_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAm/images/svm_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAm/images/xgb_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAm/knn_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAm/label_encoder.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAm/rf_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAm/svm_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAm/xgb_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAr/Images/ann_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAr/Images/knn_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAr/Images/rf_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAr/Images/svm_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAr/Images/xgb_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAr/ann_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAr/ann_model_history.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAr/knn_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAr/label_encoder.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAr/rf_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAr/svm_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiAr/xgb_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiCombo/Images/ann_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiCombo/Images/knn_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiCombo/Images/rf_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiCombo/Images/svm_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiCombo/Images/xgb_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiCombo/ann_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiCombo/knn_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiCombo/rf_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiCombo/svm_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FlexiCombo/xgb_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamAmV2/ann_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamAmV2/images/ann_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamAmV2/images/knn_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamAmV2/images/rf_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamAmV2/images/svm_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamAmV2/images/xgb_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamAmV2/knn_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamAmV2/label_encoder.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamAmV2/rf_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamAmV2/svm_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamAmV2/xgb_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamAr/Images/ann_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamAr/Images/knn_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamAr/Images/rf_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamAr/Images/svm_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamAr/Images/xgb_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamAr/XGBoost_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamAr/ann_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamAr/knn_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamAr/label_encoder.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamAr/rf_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamAr/svm_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamCombo/Images/ann_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamCombo/Images/epochs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamCombo/Images/knn_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamCombo/Images/rf_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamCombo/Images/svm_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamCombo/Images/xgb_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamCombo/ann_model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamCombo/ann_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamCombo/ann_model_history.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamCombo/knn_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamCombo/label_encoder.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamCombo/rf_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamCombo/svm_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/model3/FoamCombo/xgb_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiAm/ann_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiAm/images/ann_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiAm/images/knn_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiAm/images/rf_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiAm/images/svm_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiAm/images/xgb_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiAm/knn_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiAm/label_encoder.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiAm/rf_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiAm/svm_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiAm/xgb_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiAr/Images/ann_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiAr/Images/knn_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiAr/Images/rf_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiAr/Images/svm_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiAr/Images/xgb_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiAr/ann_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiAr/knn_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiAr/label_encoder.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiAr/rf_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiAr/svm_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiAr/xgb_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiCombo/Images/ann_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiCombo/Images/knn_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiCombo/Images/rf_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiCombo/Images/svm_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiCombo/Images/xgb_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiCombo/ann_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiCombo/knn_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiCombo/label_encoder.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiCombo/rf_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiCombo/svm_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FlexiCombo/xgb_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAmV1/ann_model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAmV1/knn_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAmV1/label_encoder.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAmV1/rf_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAmV1/svm_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAmV2/ann_model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAmV2/ann_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAmV2/images/ann_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAmV2/images/knn_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAmV2/images/rf_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAmV2/images/svm_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAmV2/images/xgb_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAmV2/knn_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAmV2/label_encoder.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAmV2/rf_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAmV2/svm_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAmV2/xgb_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAr/Images/ann_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAr/Images/knn_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAr/Images/rf_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAr/Images/svm_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAr/Images/xgb_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAr/XGBoost_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAr/ann_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAr/knn_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAr/label_encoder.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAr/rf_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamAr/svm_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamCombo/Images/ann_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamCombo/Images/knn_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamCombo/Images/rf_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamCombo/Images/svm_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamCombo/Images/xgb_conf_matrix.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamCombo/ann_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamCombo/knn_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamCombo/rf_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamCombo/svm_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/models/FoamCombo/xgb_model.joblib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/reproducibility.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/trainModelsFlexiAm.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/trainModelsFlexiAr.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/trainModelsFlexiCombo.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/trainModelsFoamAmV2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/trainModelsFoamAr.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files related to Python/trainModelsFoamCombo.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2trainModelsFlexiAm.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2trainModelsFlexiAr.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2trainModelsFlexiCombo.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2trainModelsFoamAmV2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2trainModelsFoamAr.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2trainModelsFoamCombo.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3trainModelsFlexiAm.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3trainModelsFlexiAr.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3trainModelsFlexiCombo.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3trainModelsFoamAmV2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3trainModelsFoamAr.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3trainModelsFoamCombo.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/FlexiSNR.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/FoamFrontTest.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/FoamTest.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/PinkyTest.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/ReproData.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/data-closed_fist.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/data-example.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/data-letter_y.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/data-letter_y.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/data-number_1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/data-number_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/data-open_palm.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/data-spider_man.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/data-spider_man.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/data_backup.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archive/data_no_live.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/FlexiAmSL.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/FlexiArSL.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/FlexiCombo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/FoamAmSL.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/FoamArSL.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/FoamCombo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Normalised/flexiAm.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Normalised/flexiAr.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Normalised/flexiCombo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Normalised/foamAm.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Normalised/foamAr.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Normalised/foamCombo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataCollection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/epochandLcGraphs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/4f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/4s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/7f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/7s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/8f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/8s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Af.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/As.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Baseline.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Baselinef.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Baselines.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Ff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/FoamTest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Fs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ILYf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ILYs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/If.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Is.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Lf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Ls.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Rockf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Rocks.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Sf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Ss.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Wf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Ws.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Yf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Ys.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/learncurves/RF.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/learncurves/flexiAm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/learncurves/flexiAr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/learncurves/flexiCombo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/learncurves/foamAm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/learncurves/foamAr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/learncurves/foamCombo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pinkyrepro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/liveRecognition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAm/ann_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAm/images/ann_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAm/images/knn_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAm/images/rf_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAm/images/svm_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAm/images/xgb_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAm/knn_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAm/label_encoder.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAm/rf_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAm/svm_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAm/xgb_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAr/Images/ann_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAr/Images/knn_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAr/Images/rf_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAr/Images/svm_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAr/Images/xgb_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAr/ann_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAr/ann_model_history.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAr/knn_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAr/label_encoder.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAr/rf_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAr/svm_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiAr/xgb_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiCombo/Images/ann_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiCombo/Images/knn_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiCombo/Images/rf_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiCombo/Images/svm_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiCombo/Images/xgb_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiCombo/ann_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiCombo/knn_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiCombo/label_encoder.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiCombo/rf_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiCombo/svm_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FlexiCombo/xgb_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAmV2/ann_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAmV2/images/ann_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAmV2/images/knn_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAmV2/images/rf_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAmV2/images/svm_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAmV2/images/xgb_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAmV2/knn_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAmV2/label_encoder.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAmV2/rf_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAmV2/svm_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAmV2/xgb_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAr/Images/ann_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAr/Images/knn_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAr/Images/rf_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAr/Images/svm_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAr/Images/xgb_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAr/XGBoost_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAr/ann_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAr/ann_model_history.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAr/knn_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAr/label_encoder.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAr/rf_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamAr/svm_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamCombo/Images/ann_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamCombo/Images/knn_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamCombo/Images/rf_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamCombo/Images/svm_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamCombo/Images/xgb_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamCombo/ann_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamCombo/knn_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamCombo/label_encoder.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamCombo/rf_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamCombo/svm_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2/FoamCombo/xgb_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAm/ann_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAm/images/ann_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAm/images/knn_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAm/images/rf_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAm/images/svm_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAm/images/xgb_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAm/knn_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAm/label_encoder.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAm/rf_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAm/svm_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAm/xgb_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAr/Images/ann_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAr/Images/knn_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAr/Images/rf_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAr/Images/svm_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAr/Images/xgb_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAr/ann_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAr/ann_model_history.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAr/knn_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAr/label_encoder.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAr/rf_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAr/svm_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiAr/xgb_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiCombo/Images/ann_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiCombo/Images/knn_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiCombo/Images/rf_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiCombo/Images/svm_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiCombo/Images/xgb_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiCombo/ann_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiCombo/knn_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiCombo/rf_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiCombo/svm_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FlexiCombo/xgb_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamAmV2/ann_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamAmV2/images/ann_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamAmV2/images/knn_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamAmV2/images/rf_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamAmV2/images/svm_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamAmV2/images/xgb_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamAmV2/knn_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamAmV2/label_encoder.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamAmV2/rf_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamAmV2/svm_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamAmV2/xgb_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamAr/Images/ann_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamAr/Images/knn_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamAr/Images/rf_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamAr/Images/svm_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamAr/Images/xgb_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamAr/XGBoost_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamAr/ann_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamAr/knn_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamAr/label_encoder.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamAr/rf_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamAr/svm_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamCombo/Images/ann_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamCombo/Images/epochs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamCombo/Images/knn_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamCombo/Images/rf_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamCombo/Images/svm_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamCombo/Images/xgb_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamCombo/ann_model.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamCombo/ann_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamCombo/ann_model_history.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamCombo/knn_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamCombo/label_encoder.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamCombo/rf_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamCombo/svm_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model3/FoamCombo/xgb_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiAm/ann_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiAm/images/ann_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiAm/images/knn_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiAm/images/rf_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiAm/images/svm_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiAm/images/xgb_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiAm/knn_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiAm/label_encoder.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiAm/rf_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiAm/svm_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiAm/xgb_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiAr/Images/ann_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiAr/Images/knn_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiAr/Images/rf_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiAr/Images/svm_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiAr/Images/xgb_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiAr/ann_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiAr/knn_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiAr/label_encoder.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiAr/rf_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiAr/svm_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiAr/xgb_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiCombo/Images/ann_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiCombo/Images/knn_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiCombo/Images/rf_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiCombo/Images/svm_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiCombo/Images/xgb_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiCombo/ann_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiCombo/knn_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiCombo/label_encoder.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiCombo/rf_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiCombo/svm_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FlexiCombo/xgb_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAmV1/ann_model.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAmV1/knn_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAmV1/label_encoder.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAmV1/rf_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAmV1/svm_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAmV2/ann_model.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAmV2/ann_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAmV2/images/ann_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAmV2/images/knn_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAmV2/images/rf_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAmV2/images/svm_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAmV2/images/xgb_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAmV2/knn_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAmV2/label_encoder.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAmV2/rf_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAmV2/svm_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAmV2/xgb_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAr/Images/ann_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAr/Images/knn_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAr/Images/rf_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAr/Images/svm_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAr/Images/xgb_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAr/XGBoost_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAr/ann_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAr/knn_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAr/label_encoder.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAr/rf_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamAr/svm_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamCombo/Images/ann_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamCombo/Images/knn_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamCombo/Images/rf_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamCombo/Images/svm_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamCombo/Images/xgb_conf_matrix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamCombo/ann_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamCombo/knn_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamCombo/rf_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamCombo/svm_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/FoamCombo/xgb_model.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reproducibility.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainModelsFlexiAm.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainModelsFlexiAr.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainModelsFlexiCombo.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainModelsFoamAmV2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainModelsFoamAr.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainModelsFoamCombo.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="763d807f-d041-4c84-9472-a4ec4dea1335" />
+        <option name="url" value="https://github.com/fidhalkotta/piezoSensorGlove.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2NW1x8j4yhQ4lrT0o7EGmELWQlZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/MECH0020_20114464/MECH0020_20114464&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\piezoSensorGlove" />
+      <recent name="C:\piezoSensorGlove\model2" />
+      <recent name="C:\piezoSensorGlove\model3" />
+      <recent name="C:\piezoSensorGlove\models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\MECH0020_20114464\MECH0020_20114464\ML Notebooks" />
+      <recent name="C:\piezoSensorGlove" />
+      <recent name="C:\piezoSensorGlove\models" />
+      <recent name="C:\piezoSensorGlove\data" />
+      <recent name="C:\piezoSensorGlove\models\FoamAmV1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="liveRecognition" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="piezoSensorGlove" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\tobyb\anaconda3\envs\piezoSensorGlove\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liveRecognition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a7eb0a4-1b9f-4fbf-a453-455ebb74c242" name="Changes" comment="" />
+      <created>1679765267958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679765267958</updated>
+      <workItem from="1681854477614" duration="2284000" />
+      <workItem from="1681872518652" duration="1083000" />
+      <workItem from="1681913873964" duration="4590000" />
+      <workItem from="1681920742564" duration="15854000" />
+      <workItem from="1681947552986" duration="13302000" />
+      <workItem from="1681993829659" duration="16871000" />
+      <workItem from="1682013544119" duration="2402000" />
+      <workItem from="1682078002700" duration="1190000" />
+      <workItem from="1682341455906" duration="1887000" />
+      <workItem from="1682362893663" duration="9626000" />
+      <workItem from="1682377622169" duration="2332000" />
+      <workItem from="1682504006062" duration="2922000" />
+      <workItem from="1682513882896" duration="9389000" />
+      <workItem from="1682537926394" duration="13360000" />
+      <workItem from="1682595772195" duration="20142000" />
+      <workItem from="1682631342578" duration="7308000" />
+      <workItem from="1682676364112" duration="2082000" />
+      <workItem from="1682784617586" duration="271000" />
+      <workItem from="1683391939961" duration="2343000" />
+    </task>
+    <task id="LOCAL-00001" summary="main updated to add bar charts, csv with all data added, code added for measuring other signals separately">
+      <created>1680712259765</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680712259765</updated>
+    </task>
+    <task id="LOCAL-00002" summary="main updated to add bar charts, csv with all data added, code added for measuring other signals separately, removed lines from csv">
+      <created>1680712467494</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680712467494</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added flexiforce SNR dataset">
+      <created>1681395467251</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681395467251</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added new datasets after fixing pinky resistor">
+      <created>1681616385581</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681616385581</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Move files around">
+      <created>1681617093470</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681617093470</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Changed data set and file names on trainModel and liveRecognition">
+      <created>1681679354907</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681679354907</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added Arabic data sets">
+      <created>1681830459395</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681830459395</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added XGBoost and ANN algorithms to the Jupyter notebooks, also added other notebooks for the other datasets">
+      <created>1681962525401</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681962525401</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added HP opt for all algorithms excluding ANN">
+      <created>1682089056961</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682089056961</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added HP opt for all algorithms excluding ANN">
+      <created>1682089069230</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682089069230</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added all files to repository">
+      <created>1683393256825</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1683393256825</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="main updated to add bar charts, csv with all data added, code added for measuring other signals separately" />
+    <MESSAGE value="main updated to add bar charts, csv with all data added, code added for measuring other signals separately, removed lines from csv" />
+    <MESSAGE value="added flexiforce SNR dataset" />
+    <MESSAGE value="added new datasets after fixing pinky resistor" />
+    <MESSAGE value="Changed data set and file names on trainModel and liveRecognition" />
+    <MESSAGE value="Added Arabic data sets" />
+    <MESSAGE value="Added XGBoost and ANN algorithms to the Jupyter notebooks, also added other notebooks for the other datasets" />
+    <MESSAGE value="Added HP opt for all algorithms excluding ANN" />
+    <MESSAGE value="Added all files to repository" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added all files to repository" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/piezoSensorGlove$fihdalpltos.coverage" NAME="fihdalpltos Coverage Results" MODIFIED="1682610879221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/piezoSensorGlove$liveRecognition.coverage" NAME="liveRecognition Coverage Results" MODIFIED="1682513917841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/piezoSensorGlove$epochandLcGraphs.coverage" NAME="epochandLcGraphs Coverage Results" MODIFIED="1682677307110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
