@@ -1,0 +1,9 @@
+Need to install
+
+keras
+scikitlearn
+tensorflow
+
+======
+
+spelling might be slightly off by pycharm will help you do this / I can
