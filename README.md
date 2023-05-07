@@ -5,4 +5,4 @@ The first folder contains all work related to Python and Jupyter notebook script
 
 Other folders consist of code along with Excel data used to form the various plots throughout the report, and some extra ones for different tests completed. The data file contains a folder with all final datasets used to train the ML algorithm, which is a total of 6 .csv files. It also contains pdf images of every gesture made, which consists of an average of the 10 signals with error bars showing the standard deviation. 
 
-Finally, the 'Video' folder contains the video referenced in the report in Section 5.4: Live Recognition. This includes the .mp4 video showing the live recognition script in use with the FlexiForce A201 sensorised glove. 
+Finally, the 'Live Recognition Recording.mp4' file contains the video referenced in the report in Section 5.4: Live Recognition. This shows the live recognition script in use with the FlexiForce A201 sensorised glove. 
