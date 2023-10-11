@@ -1,5 +1,5 @@
-# MECH0020_20114464
-Contains all relevant files for work completed throughout my MECH0020 individual project.
+# Machine-Learned Piezoresistive Sensors for Bilingual Sign Language Detection
+Contains all relevant files for work completed throughout my MECH0020 third year individual project (dissertation).
 
 The first folder contains all work related to Python and Jupyter notebook scripts. Archive contains files of data and plots created to aid visualise and test things throughout the project. Other folders contain trained models and images of various confusion matrices and relevant plots. All ML models are shown in Notebooks, and there are also Python scripts for live recognition using trained models, recording reproducibility tests, collecting data for ML, and plotting learning curves.
 
