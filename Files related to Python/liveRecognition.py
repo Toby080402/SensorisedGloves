@@ -12,7 +12,7 @@ import numpy as np
 import random
 import serial
 import pandas as pd
-import keyboard
+#import keyboard
 
 from sklearn.metrics import accuracy_score
 import joblib
@@ -40,7 +40,7 @@ def main():
     label_encoder = joblib.load('models/FlexiAm/label_encoder.joblib')
 
     # load the saved models from a file
-    rf_model = joblib.load('models/FlexiAm/rf_model.joblib')
+    rf_model = joblib.load('model2/FlexiAm/knn_model.joblib')
 
 
 
